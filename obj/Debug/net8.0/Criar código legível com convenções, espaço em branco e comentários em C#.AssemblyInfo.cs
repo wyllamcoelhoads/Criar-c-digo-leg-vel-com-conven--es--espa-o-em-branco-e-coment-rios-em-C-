@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Criar código legível com convenções, espaço em branco e comentários em C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff6e1f5d3229f2f7e3bcfa7c35b22be478c988d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b04491a3bc026980cd00bc62a0bf881a5aaa19a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Criar código legível com convenções, espaço em branco e comentários em C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Criar código legível com convenções, espaço em branco e comentários em C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
