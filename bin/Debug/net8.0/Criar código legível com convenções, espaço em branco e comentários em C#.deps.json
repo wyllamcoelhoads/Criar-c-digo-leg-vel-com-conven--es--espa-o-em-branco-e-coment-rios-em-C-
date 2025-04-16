@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Criar código legível com convenções, espaço em branco e comentários em C#/1.0.0": {
+        "runtime": {
+          "Criar código legível com convenções, espaço em branco e comentários em C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Criar código legível com convenções, espaço em branco e comentários em C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
